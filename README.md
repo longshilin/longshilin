@@ -1,3 +1,5 @@
+![ViewCount](http://bit.ly/longshilin-github-visits)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=longshilin&show_icons=true&hide=["contribs","issues"])](https://github.com/longshilin)
 
 <!--
 ### Hi there 👋
@@ -15,9 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=longshilin&show_icons=true&hide=["contribs","issues"])](https://github.com/longshilin)
 
 <!--
 
