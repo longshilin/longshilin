@@ -1,11 +1,11 @@
 <!-- ![ViewCount](http://bit.ly/longshilin-github-visits) -->
 
-> ## stay hungry, stay foolish
+<!-- ## stay hungry, stay foolish -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=longshilin&show_icons=true&hide=["contribs","issues"])](https://github.com/longshilin)
 
 
-### Latest blog posts :pencil2:
+## Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
  📗 [git问题及解决办法](https://longshilin.github.io/posts/git/)  
