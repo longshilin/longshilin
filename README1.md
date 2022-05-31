@@ -4,6 +4,12 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=longshilin&show_icons=true&hide=["contribs","issues"])](https://github.com/longshilin)
 
+
+### Latest blog posts :pencil2:
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 ### Hi there 👋
 
