@@ -8,11 +8,7 @@
 ## Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
- 📗 [git问题及解决办法](https://longshilin.github.io/posts/git/)  
 
- 📙 [Unity Addressables 简介](https://longshilin.github.io/posts/Unity-Addressable/)  
-
- 📕 [Unity MLAPI 多人游戏教程 – 完整指南](https://longshilin.github.io/posts/Unity-MLAPI-Guide/)  
 <!-- BLOG-POST-LIST:END -->
 
 <!--
