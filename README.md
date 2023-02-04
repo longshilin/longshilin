@@ -8,11 +8,11 @@
 ## Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
- 📗 [Go开发](https://longshilin.github.io/posts/Learn-Go/)  
+ 📗 [使用游戏编程模式升级代码](https://longshilin.github.io/posts/%E4%BD%BF%E7%94%A8%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%BC%8F%E5%8D%87%E7%BA%A7%E4%BB%A3%E7%A0%81/)  
 
- 📙 [git问题及解决办法](https://longshilin.github.io/posts/git/)  
+ 📙 [Go开发](https://longshilin.github.io/posts/Learn-Go/)  
 
- 📕 [Unity Addressables 简介](https://longshilin.github.io/posts/Unity-Addressable/)  
+ 📕 [git问题及解决办法](https://longshilin.github.io/posts/git/)  
 <!-- BLOG-POST-LIST:END -->
 
 <!--
