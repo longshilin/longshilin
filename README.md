@@ -8,11 +8,11 @@
 ## Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
- 📗 [观察者模式](https://longshilin.github.io/posts/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/)  
+ 📗 [观察者模式](https://longshilin.com/posts/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/)  
 
- 📙 [装饰器模式](https://longshilin.github.io/posts/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F/)  
+ 📙 [装饰器模式](https://longshilin.com/posts/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F/)  
 
- 📕 [单例模式](https://longshilin.github.io/posts/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/)  
+ 📕 [单例模式](https://longshilin.com/posts/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/)  
 <!-- BLOG-POST-LIST:END -->
 
 <!--
