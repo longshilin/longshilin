@@ -8,11 +8,11 @@
 ## Latest blog posts :pencil2:
 
 <!-- BLOG-POST-LIST:START -->
- 📗 [使用游戏编程模式升级代码](https://longshilin.github.io/posts/%E4%BD%BF%E7%94%A8%E6%B8%B8%E6%88%8F%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%BC%8F%E5%8D%87%E7%BA%A7%E4%BB%A3%E7%A0%81/)  
+ 📗 [观察者模式](https://longshilin.github.io/posts/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F/)  
 
- 📙 [Go开发](https://longshilin.github.io/posts/Learn-Go/)  
+ 📙 [装饰器模式](https://longshilin.github.io/posts/%E8%A3%85%E9%A5%B0%E5%99%A8%E6%A8%A1%E5%BC%8F/)  
 
- 📕 [git问题及解决办法](https://longshilin.github.io/posts/git/)  
+ 📕 [单例模式](https://longshilin.github.io/posts/%E7%AD%96%E7%95%A5%E6%A8%A1%E5%BC%8F/)  
 <!-- BLOG-POST-LIST:END -->
 
 <!--
