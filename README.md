@@ -2,8 +2,17 @@
 
 <!-- ## stay hungry, stay foolish -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=longshilin&show_icons=true&hide=["contribs","issues"])](https://github.com/longshilin)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=longshilin&show_icons=true&hide=["contribs","issues"])](https://github.com/longshilin) -->
 
+<table>
+    <tr>
+        <td colspan="2"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=longshilin&theme=github" style="width: 100%"></td>    
+    </tr>
+    <tr>
+  		 <td><img src='https://github-profile-summary-cards.vercel.app/api/cards/stats?username=longshilin' alt="Anurag's github stats" /></td> 
+      	 <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=longshilin&theme=github" /></td>    
+    </tr>
+</table>
 
 ## Latest blog posts :pencil2:
 
